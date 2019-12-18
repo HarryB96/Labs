@@ -1,0 +1,16 @@
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab22SerializationXML.exe
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab24SerializeBinary.exe
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab24SerializeBinary.deps.json
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab24SerializeBinary.runtimeconfig.json
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab24SerializeBinary.runtimeconfig.dev.json
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab24SerializeBinary.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab24SerializeBinary.pdb
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\SoapFormatter.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab22SerializationXML.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\bin\Debug\netcoreapp3.0\Lab22SerializationXML.pdb
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\obj\Debug\netcoreapp3.0\Lab24SerializeBinary.csprojAssemblyReference.cache
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\obj\Debug\netcoreapp3.0\Lab24SerializeBinary.AssemblyInfoInputs.cache
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\obj\Debug\netcoreapp3.0\Lab24SerializeBinary.AssemblyInfo.cs
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\obj\Debug\netcoreapp3.0\Lab24SerializeBinary.csproj.CopyComplete
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\obj\Debug\netcoreapp3.0\Lab24SerializeBinary.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab24SerializeBinary\obj\Debug\netcoreapp3.0\Lab24SerializeBinary.pdb

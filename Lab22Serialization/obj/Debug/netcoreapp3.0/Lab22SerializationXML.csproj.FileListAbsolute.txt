@@ -1,0 +1,13 @@
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\Lab22SerializationXML.exe
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\Lab22SerializationXML.deps.json
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\Lab22SerializationXML.runtimeconfig.json
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\Lab22SerializationXML.runtimeconfig.dev.json
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\Lab22SerializationXML.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\Lab22SerializationXML.pdb
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\bin\Debug\netcoreapp3.0\SoapFormatter.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\obj\Debug\netcoreapp3.0\Lab22SerializationXML.csprojAssemblyReference.cache
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\obj\Debug\netcoreapp3.0\Lab22SerializationXML.AssemblyInfoInputs.cache
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\obj\Debug\netcoreapp3.0\Lab22SerializationXML.AssemblyInfo.cs
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\obj\Debug\netcoreapp3.0\Lab22SerializationXML.csproj.CopyComplete
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\obj\Debug\netcoreapp3.0\Lab22SerializationXML.dll
+C:\Users\Harry Barnett\Engineering45\Labs\Lab22Serialization\obj\Debug\netcoreapp3.0\Lab22SerializationXML.pdb

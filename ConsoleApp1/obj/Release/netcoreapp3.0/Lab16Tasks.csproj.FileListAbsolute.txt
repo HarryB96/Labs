@@ -1,0 +1,10 @@
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\bin\Release\netcoreapp3.0\Lab16Tasks.exe
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\bin\Release\netcoreapp3.0\Lab16Tasks.deps.json
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\bin\Release\netcoreapp3.0\Lab16Tasks.runtimeconfig.json
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\bin\Release\netcoreapp3.0\Lab16Tasks.runtimeconfig.dev.json
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\bin\Release\netcoreapp3.0\Lab16Tasks.dll
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\bin\Release\netcoreapp3.0\Lab16Tasks.pdb
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\obj\Release\netcoreapp3.0\Lab16Tasks.AssemblyInfoInputs.cache
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\obj\Release\netcoreapp3.0\Lab16Tasks.AssemblyInfo.cs
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\obj\Release\netcoreapp3.0\Lab16Tasks.dll
+C:\Users\Harry Barnett\Engineering45\Labs\ConsoleApp1\obj\Release\netcoreapp3.0\Lab16Tasks.pdb
